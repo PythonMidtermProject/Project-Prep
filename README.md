@@ -12,6 +12,6 @@ This repo contains team  documentation
 * []()
 
 ## Our Team:
-> Name - Name - Name - Name
+> Emily - Jordan - Polo - Steve - Harvey
 
 'Published by: Name'

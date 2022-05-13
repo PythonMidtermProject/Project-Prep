@@ -8,22 +8,25 @@
 ### Team key strengths?
 
 - **What are the key strengths of each person on the team?**
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
+  * `Emily`: Research, Problem Solving, Logic
+  * `Jordan`: Good at logic flow problem solving.
+  * `Polo`: Problem solving, coding
+  * `Steve`: Good understanding of the material. Comedic relief.
+  * `Harvey`: new insight on learned material
 
 - **How can you best utilize these strengths in the execution of your project?**
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
+  * `Emily`: Debugging, finding new technologies to utilize, pair programming
+  * `Jordan`: Pair programming. Bringing me on as a driver/proof reader when group runs into a problem.
+  * `Polo`: Coding TDD modules, working with new libraries
+  * `Steve`: I will keep my team from over extending themselves in the work and provide technical and emotional support.
+  * `Harvey`: Thinking outside the box by bringing in different point of view to team
 
 - **In which professional competencies do you each want to develop greater strength?**
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
+  * `Emily`: Testing, Communication, Teamwork
+  * `Jordan`: Better use of tests, and ability to compartmentalize functions better.
+  * `Polo`: Agile project management, pair programming
+  * `Steve`: planning and time management.
+  * `Harvey`: Teamwork Competency
 
 **Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
 
@@ -49,11 +52,19 @@
   * instructor intervention
 
 ## Communication Plan
-- **Hours?**
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
+* Working Hours: 9:00am-6:00pm
+* Stand-up Meeting: 9:00am/2:00pm 
+  * (Scrum) - each morning, meet for 15-30 minutes regarding
+  * Review - PM tool
+  * What they did the day prior
+  * What they were having roadblocks on yesterday 
+  * What they plan on doing today
+
+* 9:30-12pm - Sprint - Remo/mic-off 
+* 12pm-1:30pm - Lunch break
+* 2:00 - Scrum
+* 2:30-6pm - Sprint - Remo/mic-off 
+
 
 - **Communication Platforms?**
   * Slack
@@ -83,10 +94,10 @@
   * We will be using a project tracking tool to list tasks and assignments.
 
 - **What project management tool will be used?**
-  * `fill`
+  * `Trello`
 
 ## Presentation Deck
-[`fill`]()
+[`Slide Deck`](https://docs.google.com/presentation/d/1ZmODs-kAOC9sTNUrcsKq7wo7WxaGHD-9JRcp1xrGois/edit?usp=sharing)
 
 ## Git Process
 

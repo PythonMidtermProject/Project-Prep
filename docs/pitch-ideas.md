@@ -4,11 +4,11 @@
 # Pitch Ideas
 
 ## Brainstorming Ideas
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
-  * `Name`: 
-
+  * `Emily`: 
+  * `Jordan`: 
+  * `Polo`: 
+  * `Steve`: 
+  * `Harvey`: 
 
 ## Pitch: `Name`
 
