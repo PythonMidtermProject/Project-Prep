@@ -29,11 +29,13 @@ Provides a structured environment for community members to directly debate, vote
   * To minimize ‘gaming the system’, only those in favor of an argument can post on the favor side and vice versa
   * Arguments have a limit of [140] characters?
 
-## Pitch: `Image Generator`
+## Pitch: `AI Image Generator`
 
 ### Summary of idea
+An AI with the ability to generate an image from a single or multi word input by scouring the web and recreating something new from the results.
 
 ### Problem Domain
+Helps bridge the gap between AI and art to bring a more creative understanding of machine learning to users that might not have previously viewed AI as an artistic outlet or inspirational tool with the potential to revolutionalize the arts as we know them.
 
 ### Minimum Viable Product (MVP)
-
+A program that generates a list of images based on user input.
