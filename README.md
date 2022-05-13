@@ -1,4 +1,4 @@
-# Project Week Prep
+# MidTerm Project Week Prep
 This repo contains team  documentation
 
 ## Table of Contents
