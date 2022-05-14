@@ -3,8 +3,8 @@
 
 # Repo and Tooling
 
-### [`fill`]()
+### [`Pycasso`](https://github.com/PythonMidtermProject/Pycasso)
 
-### [Markdown Documentation]()
+### [Markdown Documentation](https://pythonmidtermproject.github.io/Project-Prep/)
 
-### PM Tools: [`fill`]()
+### PM Tools: [`Trello`](https://trello.com/b/PsCPGt2i/python401midterm)

@@ -14,4 +14,4 @@ This repo contains team  documentation
 ## Our Team:
 > Emily - Jordan - Polo - Steve - Harvey
 
-'Published by: Name'
+'Published by: Team Pycasso'
