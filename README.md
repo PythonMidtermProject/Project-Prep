@@ -14,6 +14,11 @@ This repo contains team  documentation
 * [deep dream](https://github.com/google/deepdream/blob/master/dream.ipynb)
 * [machine learning](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265)
 
+*[AI Generated Art (With CLIP and VQGAN)](https://m.youtube.com/watch?v=LM8dil6n5h8)
+
+*[aiart](https://github.com/johnowhitaker/aiaiart)
+*[Build an AI Artist](https://www.youtube.com/watch?v=9Mxw_ilpvwA)
+
 ## Our Team:
 > Emily - Jordan - Polo - Steve - Harvey
 
