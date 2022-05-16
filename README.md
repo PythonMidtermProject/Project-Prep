@@ -14,10 +14,12 @@ This repo contains team  documentation
 * [deep dream](https://github.com/google/deepdream/blob/master/dream.ipynb)
 * [machine learning projects](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265)
 
-*[What is a tensor?](https://www.youtube.com/watch?v=uaQeXi4E7gA)
+### Background Knowledge
+* [What is a tensor?](https://www.youtube.com/watch?v=uaQeXi4E7gA)
 * [AI Generated Art (With CLIP and VQGAN)](https://m.youtube.com/watch?v=LM8dil6n5h8)
 * [Build an AI Artist](https://www.youtube.com/watch?v=9Mxw_ilpvwA)
 
+### AI art course(1-4):
 * [aiart class repo](https://github.com/johnowhitaker/aiaiart)
 
 ## Our Team:
