@@ -16,7 +16,8 @@ This repo contains team  documentation
 
 * [AI Generated Art (With CLIP and VQGAN)](https://m.youtube.com/watch?v=LM8dil6n5h8)
 
-* [aiart](https://github.com/johnowhitaker/aiaiart)
+* [aiart class repo](https://github.com/johnowhitaker/aiaiart)
+
 * [Build an AI Artist](https://www.youtube.com/watch?v=9Mxw_ilpvwA)
 
 ## Our Team:
