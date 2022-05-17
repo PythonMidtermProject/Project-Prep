@@ -18,6 +18,7 @@ This repo contains team  documentation
 * [What is a tensor?](https://www.youtube.com/watch?v=uaQeXi4E7gA)
 * [AI Generated Art (With CLIP and VQGAN)](https://m.youtube.com/watch?v=LM8dil6n5h8)
 * [Build an AI Artist](https://www.youtube.com/watch?v=9Mxw_ilpvwA)
+* [building a neural network](https://towardsdatascience.com/step-by-step-guide-to-building-your-own-neural-network-from-scratch-df64b1c5ab6e)
 
 ### AI art course(1-4):
 * [aiart class repo](https://github.com/johnowhitaker/aiaiart)
